@@ -2,3 +2,4 @@
 driver
 *.o
 *.swp
+*.gch
